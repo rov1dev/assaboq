@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.big{
+    width: 100%;
+    height: 100vh;
+    background-image: url(Rectangle\ 76.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.aaa{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.381);
+
+}
+
+.birinchi{
+    font-size: 20px;
+    margin-bottom: 160px;
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+}
+
+.ikkinchi{
+    width: 100%;
+    height: 40vh;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    font-size: 19px;    
+}
+
+.ikkibir{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+.werty{
+    margin-right: 300px;
+}
+
+.bir{
+    width: 70vh;
+    height: 20vh;
+}
+
+
+.uy{
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+}
+
+.vaqt{
+    font-size: 35px;
+}
+.savoljavob{
+    width: 100%;
+    height: 100vh;
+    background-image: url(Rectangle\ 58.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.div1{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+
+.div2{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.man1{
+    width: 700px;
+    height: 80px;
+    border: 3px solid black;
+    border-radius: 20px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.savol1{
+    margin-left: 150px;
+}
+
+.savol2{
+    margin-right: 150px;
+}
+
+
+.man3{
+    width: 750px;
+    height: 100px;
+    border: 3px solid black;
+    border-radius: 20px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
