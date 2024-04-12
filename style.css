@@ -30,6 +30,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 100px;
 }
 
 .aaa{
@@ -135,4 +136,49 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+#class {
+    margin-left: 150px;
+    margin-top: -20px;
+}
+
+.price-disc {
+    background-color: white;
+    box-shadow: 2px 1px 4px 7px #0000002f;
+    padding: 30px 20px;
+}
+
+.time-res {
+    padding-top: 50px;
+}
+
+.h1orange {
+    color: #C98A3B;
+    text-align: center;
+}
+
+.price-time {
+    width: 50%;
+    background-color: white;
+    margin-top: 80px;
+    box-shadow: 2px 1px 4px 7px #0000002f;
+    padding: 40px 20px 30px 20px;
+}
+
+#class2 {
+    margin-left: 150px;
+}
+
+.price-time {
+    margin-left: 280px;
+    /* margin-top: -0px; */
+}
+
+.time-res {
+    margin-top: -20px;
+}
+#price {
+    background: url(./Reactangle17.png) no-repeat center center/cover !important;
+    width: 100%;
+    height: 100vh;
 }
