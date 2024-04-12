@@ -1,7 +1,7 @@
 *{
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
-<<<<<<< HEAD
     font-family: "Roboto", sans-serif;
     font-weight: 450;
     font-style: normal;
@@ -19,9 +19,6 @@
     font-size: 30px;
     margin-top: 30px;
     color: #c98a3b;
-}
-=======
-    box-sizing: border-box;
 }
 
 .big{
@@ -139,4 +136,3 @@
     justify-content: center;
     align-items: center;
 }
->>>>>>> b66eb69ed32fe1a2734e4c69657a92d0da2ae8dc
