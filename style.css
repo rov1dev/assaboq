@@ -1,7 +1,24 @@
 *{
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+    font-weight: 450;
+    font-style: normal;
+}
+.extra {
+    margin-top: 55px;
+}
+.extra-lite{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    font-size: 25px;
+}
+.h1{
+    font-size: 30px;
+    margin-top: 30px;
+    color: #c98a3b;
 }
 
 .big{
